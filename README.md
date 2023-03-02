@@ -9,7 +9,6 @@
 
 ## Hacking 
 - [EDA](https://www.datacamp.com/courses/exploratory-data-analysis-in-python "EDA")
-- [Improving Visualizations](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python "Improving Visualizations")
 
 ## Cracking
 - [DateTimeModule](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-python "DateTimeModule")
